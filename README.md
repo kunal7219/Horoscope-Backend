@@ -1,4 +1,4 @@
-#  Personalized Horoscope API  Personalized Horoscope API 🌟
+#  Personalized Horoscope API 🌟
 
 A backend service built with Node.js and Express that generates and serves personalized daily horoscopes for users based on their zodiac sign.
 
